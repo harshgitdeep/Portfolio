@@ -1,3 +1,3 @@
 # Portfolio
 
-### Live link -> harshgitdeep.netlify.app/
+### Live link -> https://harshgitdeep.netlify.app/
