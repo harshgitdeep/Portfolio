@@ -612,7 +612,7 @@ body {
   font-size: var(--fs-lg);
   color: var(--color-white);
   font-weight: var(--fw-bold);
-  text-decoration: underline;
+/*   text-decoration: underline; */
   transition: var(--transition);
 }
 
